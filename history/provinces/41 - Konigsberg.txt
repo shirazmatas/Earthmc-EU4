@@ -1,0 +1,38 @@
+#41 - Königsberg
+
+owner = POL
+controller = POL
+add_core = TEU
+capital = "Königsberg"
+culture = prussian
+religion = catholic
+trade_goods = gems #Amber
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+add_core = POL
+discovered_by = western
+discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
+discovered_by = muslim
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
+extra_cost = 8
+center_of_trade = 1
+
+
+1525.2.10 = {
+	trade_goods = paper #Lack of demand for amber after reformation + increasing growth of the paper industry in Ducal Prussia
+} # Albert of Prussia became a protestant

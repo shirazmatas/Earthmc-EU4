@@ -1,0 +1,8 @@
+government = monarchy
+government_rank = 1
+mercantilism = 10
+primary_culture = karelian
+religion = orthodox
+technology_group = eastern
+capital = 33	# Neva. This is an OPM
+

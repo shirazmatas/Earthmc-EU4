@@ -1,0 +1,15 @@
+culture = berber
+religion = sunni
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "N/A"
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = sub_saharan
+native_size = 35
+native_ferocity = 3
+native_hostileness = 4
