@@ -1,8 +1,8 @@
 #56 - Osnabrück
 
-owner = GER
-controller = GER
-add_core = GER
+owner = GE2
+controller = GE2
+add_core = GE2
 culture = hannoverian
 religion = catholic
 capital = "Osnabrück"

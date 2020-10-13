@@ -1,9 +1,9 @@
 # NB: If changing the ID for this province, code (CPowerSpending::OnExecute) also has to change for achievement_tear_down_this_wall to work.
 #50 - Brandenburg
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 add_core = BRA
 culture = saxon
 religion = catholic

@@ -1,7 +1,8 @@
 # 67 - Franken
 
-owner = NUM
-controller = NUM
+owner = GE2
+controller = GE2
+add_core = GE2
 add_core = NUM
 culture = franconian
 religion = catholic
@@ -11,20 +12,23 @@ trade_goods = paper
 base_manpower = 3
 capital = "Nürnberg"
 is_city = yes
-hre = yes
+hre = no
 add_claim = ANS
-discovered_by = eastern
 discovered_by = western
+discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 extra_cost = 16
 center_of_trade = 2
 
-
-1533.1.1 = { religion = protestant } # Brandenburg-Nürnbergische Kirchenordnung
-1806.7.12 = {
-	hre = no
-	owner = BAV
-	controller = BAV
-	add_core = BAV
-} # The Holy Roman Empire is dissolved

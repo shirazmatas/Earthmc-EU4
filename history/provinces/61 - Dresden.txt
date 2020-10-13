@@ -1,8 +1,8 @@
 #61 - Saxony
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 add_core = SAX
 culture = saxon
 religion = catholic

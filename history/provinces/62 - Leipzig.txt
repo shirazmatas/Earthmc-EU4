@@ -4,9 +4,9 @@ latent_trade_goods = {
 	coal
 }
 
-owner = KSS
-controller = KSS
-add_core = KSS 
+owner = HLR
+controller = HLR
+add_core = HLR
 culture = saxon
 religion = catholic
 capital = "Leipzig"

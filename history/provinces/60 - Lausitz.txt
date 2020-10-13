@@ -1,8 +1,8 @@
 #60 - Lausitz
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 add_core = SOR
 add_core = BOH
 capital = "Bautzen"

@@ -1,8 +1,8 @@
 #49 - Neumark
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 #add_core = BRA
 culture = saxon
 religion = catholic

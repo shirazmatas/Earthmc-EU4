@@ -1,8 +1,8 @@
 #57 - Brunswick
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 culture = lower_saxon
 religion = catholic
 capital = "Braunschweig"

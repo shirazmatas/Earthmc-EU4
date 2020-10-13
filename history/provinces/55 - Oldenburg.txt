@@ -1,8 +1,8 @@
 #55 - Oldenburg
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 culture = hannoverian
 religion = catholic
 capital = "Oldenburg"

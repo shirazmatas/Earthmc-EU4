@@ -1,0 +1,7 @@
+# Sweden as a vassal of Greater Finland
+vassal = {
+	first = GFI
+	second = SWE
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

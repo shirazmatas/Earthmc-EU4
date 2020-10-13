@@ -1,8 +1,8 @@
 #51 - Ruppin
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
 add_core = BRA
 add_core = RUP
 culture = saxon

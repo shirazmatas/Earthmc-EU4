@@ -1,8 +1,9 @@
 #53 - Lüneburg
 
-owner = KSS
-controller = KSS
-add_core = KSS
+owner = HLR
+controller = HLR
+add_core = HLR
+add_core = LUN
 culture = lower_saxon
 religion = catholic
 capital = "Lüneburg"
