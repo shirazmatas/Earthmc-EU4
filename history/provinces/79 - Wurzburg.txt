@@ -1,6 +1,7 @@
 #79 - Würzburg
-owner = WBG
-controller = WBG
+owner = GE2
+controller = GE2
+add_core = GE2
 add_core = WBG
 culture = franconian
 religion = catholic
@@ -10,14 +11,23 @@ trade_goods = wine
 base_manpower = 3
 fort_15th = yes # Marienberg Fortress
 capital = "Würzburg"
-hre = yes
+hre = no
 
-
-
-discovered_by = eastern
 discovered_by = western
+discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 
 is_city = yes
 

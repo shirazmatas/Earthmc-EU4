@@ -1,7 +1,8 @@
 #114 - Romagna
 
-owner = VEN			# Ravenna was seized by Venice in 1441
-controller = VEN
+owner = ROM
+controller = ROM
+add_core = ROM
 culture = romagnan 
 religion = catholic 
 hre = no 
@@ -11,30 +12,20 @@ trade_goods = salt
 base_manpower = 2
 capital = "Ravenna"
 is_city = yes
-add_core = VEN
-add_core = PAP
-
 
 discovered_by = western
 discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 
-1509.1.1 = { 
-	owner = PAP
-	controller = PAP
-	add_core = PAP
-	remove_core = VEN
-}
-1805.12.26 = {
-	owner = ITA
-	controller = ITA
-	add_core = ITA
-	remove_core = PAP
-} # Treaty of Pressburg
-1814.4.11 = {
-	owner = PAP
-	controller = PAP
-	add_core = PAP
-	remove_core = ITA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

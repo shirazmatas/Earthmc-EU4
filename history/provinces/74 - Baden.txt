@@ -1,7 +1,8 @@
 #74 - Baden
 
-owner = BAD
-controller = BAD
+owner = SWI
+controller = SWI
+add_core = SWI
 add_core = BAD
 capital = "Baden"
 trade_goods = wine
@@ -11,19 +12,21 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-hre = yes
+hre = no
 
-
-discovered_by = eastern
 discovered_by = western
+discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 
-
-1538.1.1 = { religion = protestant } # Protestant majority
-1650.1.1 = { religion = catholic }
-1771.1.1 = { base_tax = 4 
-base_production = 4 base_manpower = 2 } # Baden-Baden Line dies without heirs, thus the possessions of the Baden family are reunited in one hand (Baden-Durlach).
-1792.10.3 = { controller = FRA } # Occupied by French troops
-1796.8.7 = { controller = BAD }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

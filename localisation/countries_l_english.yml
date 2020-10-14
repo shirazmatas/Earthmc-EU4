@@ -212,6 +212,7 @@
  RAJ:0 "Rajputana"
  REB:0 "Rebels"
  RIG:0 "Riga"
+ RRR:0 "Roman Republic"
  RUS:0 "Russia"
  RYA:0 "Ryazan"
  RYU:0 "Ryukyu"
@@ -1415,3 +1416,4 @@
  SFL_ADJ:0 "Scandinavian"
  WHO_ADJ:0 "Livonian"
  KSS_ADJ:0 "Kassel"
+ RRR_ADJ:0 "Roman"

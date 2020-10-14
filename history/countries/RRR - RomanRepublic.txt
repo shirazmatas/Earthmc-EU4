@@ -1,0 +1,6 @@
+government = republic
+primary_culture = Umbrian
+religion = catholic
+technology_group = western
+government_rank = 1 #It's the Roman Republic, which was basically some tiny shitter until it started conquering
+capital = 118 # Rome
