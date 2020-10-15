@@ -1,7 +1,7 @@
 #125 - Palermo
 
-owner = SIC
-controller = SIC
+owner = ROM
+controller = ROM
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -12,41 +12,22 @@ base_manpower = 3
 capital = "Palermo"
 is_city = yes
 add_core = SIC
-add_core = NAP
+add_core = ROM
 discovered_by = western
 discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 extra_cost = 8
 center_of_trade = 1
 
-
-1409.7.25 = {
-	owner = ARA
-	controller = ARA
-	add_core = ARA
-} # Martin I inherits Sicily from his son
-1516.1.23 = {	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = ARA
-} # Unification of Spain
-1706.7.1 = { controller = SAV }
-1713.4.11 = {	owner = NAP
-	controller = NAP
-	remove_core = SPA
-}
-1718.8.2 = {	owner = HAB
-	controller = HAB
-	add_core = HAB
-}
-1734.6.2 = {	owner = NAP
-	controller = NAP
-	remove_core = HAB
-}
-1806.3.11 = {	owner = SIC
-	controller = SIC
-} # Ferdinand flees to Sicily
-1815.5.3 = {	owner = NAP
-	controller = NAP
-} # The Kingdom is restored to Ferdinand

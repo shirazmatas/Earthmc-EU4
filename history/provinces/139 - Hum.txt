@@ -1,7 +1,7 @@
 #139 - Hum
 
-owner = HRZ
-controller = HRZ
+owner = SER
+controller = SER
 culture = bosnian
 religion = catholic
 capital = "Mostar"	# Unofficial capital of Herzegovina
@@ -11,22 +11,22 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = BOS
+add_core = SER
 add_core = HRZ
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 
-
-1521.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
 
