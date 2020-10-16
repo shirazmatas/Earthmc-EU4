@@ -1,9 +1,9 @@
 #Gotland- Visby etc
 
-owner = LIV
-controller = LIV
+owner = WHO
+controller = WHO
 add_core = GOT
-add_core = LIV
+add_core = WHO
 culture = swedish
 religion = catholic
 hre = no
@@ -30,6 +30,9 @@ discovered_by = mesoamerican
 discovered_by = andean
 discovered_by = north_american
 discovered_by = south_american
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1
 

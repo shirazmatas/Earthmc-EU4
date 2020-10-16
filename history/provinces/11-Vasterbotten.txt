@@ -13,7 +13,6 @@ base_manpower = 1
 capital = "Umeå"
 is_city = yes
 
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = high_american
@@ -29,6 +28,9 @@ discovered_by = mesoamerican
 discovered_by = andean
 discovered_by = north_american
 discovered_by = south_american
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = sub_saharan
 
 
 1650.1.1 = { trade_goods = naval_supplies }

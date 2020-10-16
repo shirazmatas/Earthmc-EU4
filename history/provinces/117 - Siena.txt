@@ -28,3 +28,6 @@ discovered_by = mesoamerican
 discovered_by = andean
 discovered_by = north_american
 discovered_by = south_american
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = sub_saharan
