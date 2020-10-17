@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = romanian
+religion = orthodox
+technology_group = eastern
+capital = 161	# Tîrgoviste
+
+1444.1.1 = {
+	monarch = {
+		name = "Dukasv"
+		dynasty = "of Romania"
+		dip = 3
+		mil = 3
+		adm = 3
+	}
+} #stats are not final. Or begun. These are just placeholder stats

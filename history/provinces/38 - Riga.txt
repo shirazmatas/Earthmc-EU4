@@ -1,8 +1,8 @@
 #Riga Bight, incl. the city of Riga, and Dünamünde.
 
-owner = WHO
-controller = WHO
-add_core = WHO
+owner = LIV
+controller = LIV
+add_core = LIV
 add_core = RIG
 culture = prussian
 religion = catholic

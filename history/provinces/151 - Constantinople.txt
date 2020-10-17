@@ -1,7 +1,7 @@
 #151 - Constantinople
 
-owner = BUL
-controller = BUL
+owner = BYZ
+controller = BYZ
 add_core = BUL
 culture = greek
 religion = orthodox

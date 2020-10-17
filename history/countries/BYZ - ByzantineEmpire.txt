@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform #they'll get constitutional monarchy whenever that's added
+government_rank = 3
+primary_culture = greek
+religion = orthodox
+technology_group = eastern
+historical_rival = TUR
+capital = 151 # Constantinople
+fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it
+
+1444.1.1 = {
+	monarch = {
+		name = "CorruptedGreed"
+		dynasty = "Greedius"
+		birth_date = 1424.11.11		
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

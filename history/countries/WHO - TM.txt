@@ -4,5 +4,5 @@ mercantilism = 10
 primary_culture = karelian
 religion = orthodox
 technology_group = eastern
-capital = 33	# Neva. This is an OPM
+capital = 39	# Kurland. This is not an OPM
 

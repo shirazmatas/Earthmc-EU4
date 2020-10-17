@@ -1,7 +1,8 @@
 #149 - Edirne
 
-owner = BUL
-controller = BUL
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 culture = greek
 religion = orthodox
 capital = "Edirne"

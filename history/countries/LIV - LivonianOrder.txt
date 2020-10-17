@@ -1,0 +1,20 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+technology_group = western
+primary_culture = prussian
+add_accepted_culture = latvian
+add_accepted_culture = estonian
+religion = catholic
+capital = 38	# Riga
+add_army_professionalism = 0.1
+
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -10
+}
+

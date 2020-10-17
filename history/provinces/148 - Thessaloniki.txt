@@ -1,7 +1,8 @@
 #148 - Macedonia
 
-owner = YGS
-controller = YGS
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 culture = greek
 religion = orthodox
 capital = "Thessaloniki"
