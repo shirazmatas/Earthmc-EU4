@@ -261,6 +261,7 @@
  TVE:0 "Tver"
  TYR:0 "Tyrone"
  UKR:0 "Ruthenia"
+ UNK:0 "United Kingdom"
  URB:0 "Urbino"
  USA:1 "United States"
  UTR:0 "Utrecht"
@@ -1422,3 +1423,4 @@
  AUH_ADJ:0 "Austro-Hungarian"
  YGS_ADJ:0 "Yugoslavian"
  BYZ_ADJ:0 "Roman"
+ UNK_ADJ:0 "British"

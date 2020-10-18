@@ -1,7 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = serbian
-add_accepted_culture = bosnian
-religion = catholic
+religion = orthodox
 technology_group = eastern
-capital = 3002
+capital = 4239	# Belgrade/Beograd

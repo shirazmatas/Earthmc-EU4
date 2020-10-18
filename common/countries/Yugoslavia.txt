@@ -34,6 +34,7 @@ historical_units = {
 }
 
 monarch_names = {
+	"S64 #0" = 40
 	"Stjepan Tvrtko #1" = 20
 	"Stjepan Ostoja #0" = 20
 	"Stjepan Ostojic #0" = 20
