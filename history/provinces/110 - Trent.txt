@@ -1,8 +1,8 @@
 #110 - Trent
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = RME
+controller = RME
+add_core = RME
 add_core = TNT
 culture = venetian
 religion = catholic

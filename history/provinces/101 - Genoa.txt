@@ -1,8 +1,8 @@
 #101 - Liguria
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = RME
+controller = RME
+add_core = RME
 add_core = GEN
 culture = ligurian
 religion = catholic

@@ -1,8 +1,8 @@
 #109 - Mantua
  
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = RME
+controller = RME
+add_core = RME
 add_core = MAN
 culture = romagnan 
 religion = catholic 

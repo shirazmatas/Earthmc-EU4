@@ -1,7 +1,7 @@
 #125 - Palermo
 
-owner = ROM
-controller = ROM
+owner = RME
+controller = RME
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -12,7 +12,7 @@ base_manpower = 3
 capital = "Palermo"
 is_city = yes
 add_core = SIC
-add_core = ROM
+add_core = RME
 discovered_by = western
 discovered_by = eastern
 discovered_by = high_american

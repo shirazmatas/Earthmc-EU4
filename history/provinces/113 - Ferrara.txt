@@ -1,8 +1,8 @@
 #113 - Ferrara
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = RME
+controller = RME
+add_core = RME
 culture = romagnan 
 religion = catholic 
 hre = no

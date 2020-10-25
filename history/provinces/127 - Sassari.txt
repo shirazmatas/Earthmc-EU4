@@ -1,8 +1,8 @@
 #127 - Sardinia
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = RME
+controller = RME
+add_core = RME
 culture = sardinian 
 religion = catholic 
 hre = no 

@@ -1,8 +1,8 @@
 #104 - Milano
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = RME
+controller = RME
+add_core = RME
 culture = lombard
 religion = catholic
 hre = no
