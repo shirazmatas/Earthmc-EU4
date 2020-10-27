@@ -70,6 +70,7 @@
  DAI:0 "Dai Viet"
  DAN:0 "Denmark"
  DAU:0 "Dauphine"
+ DLA:0 "Deutschland"
  DLH:0 "Delhi"
  DUL:0 "Dulkadir"
  DUR:0 "Durrani"
@@ -1428,3 +1429,4 @@
  UNK_ADJ:0 "British"
  LAT_ADJ:0 "Latvian"
  RME_ADJ:0 "Roman"
+ DLA_ADJ:0 "Deutsch"
