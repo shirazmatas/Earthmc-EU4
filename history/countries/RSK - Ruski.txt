@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = principality
+primary_culture = russian
+religion = sunni #not based on EMC, but on its starting land in vanilla eu4. Can be changed whenever we add religion
+technology_group = eastern
+unit_type = eastern
+government_rank = 2

@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = peasants_republic
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+unit_type = eastern
+government_rank = 1

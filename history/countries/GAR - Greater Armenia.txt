@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = autocracy_reform 
+government_rank = 2 #If the GRE is an empire, are its subject states not kingdoms?
+primary_culture = armenian
+religion = coptic
+technology_group = eastern
+capital = 423	# Moria, probably
+
+1424.11.1 = {
+	monarch = {
+		name = "fritzstick"
+		dynasty = "Greedius"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
