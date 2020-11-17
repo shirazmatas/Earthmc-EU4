@@ -1,7 +1,8 @@
 #325 - Kastamonu
 
-owner = CND
-controller = CND
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 culture = turkish
 religion = sunni
 capital = "Kastamonu"
@@ -14,17 +15,19 @@ is_city = yes
 add_core = CND
 discovered_by = western
 discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
 discovered_by = ottoman
 discovered_by = nomad_group
-
-1458.1.1 = {
-	owner = TUR
-	controller = TUR	
-	add_core = TUR
-}
-1481.6.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Civil war, Bayezid & Jem
-1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Rhodes
-1509.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
-1513.1.1 = { revolt = {} controller = TUR }
-1740.1.1 = { base_tax = 5 base_production = 5 } # The decentralizing effect of the provincial system
+discovered_by = sub_saharan

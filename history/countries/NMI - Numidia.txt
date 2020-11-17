@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = iqta 
+technology_group = muslim
+religion = sunni
+primary_culture = berber
+capital = 2954 # Djerba, except it's actually Houmt Souk
+government_rank = 2
+
+1444.1.1 = {
+	monarch = {
+		name = "Twitchy"
+		dynasty = "Greedius"
+		birth_date = 1424.11.11
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
