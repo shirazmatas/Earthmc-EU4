@@ -490,6 +490,9 @@ BTS = "countries/Betsimisaraka.txt" #And their predecessors
 MFY = "countries/Mahafaly.txt"
 ANT = "countries/Antemoro.txt"
 
+#Africa's already unorganized from PDX, so modded sub-Saharan nations go here
+SUD = "countries/Sudan.txt"
+
 #Far East
 ANN	= "countries/Annam.txt"
 ARK	= "countries/Arakan.txt"

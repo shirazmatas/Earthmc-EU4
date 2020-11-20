@@ -248,6 +248,7 @@
  SPA:0 "Spain"
  SST:0 "Shan"
  STY:0 "Styria"
+ SUD:0 "Sudan"
  SUL:0 "Sulu"
  SVE:0 "Svealand"
  SVU:0 "Soviet Union"
@@ -1446,3 +1447,4 @@
  NMI_ADJ:0 "Numidian"
  MGH_ADJ:0 "Maghrebi"
  MAU_ADJ:0 "Mauritanien"
+ SUD_ADJ:0 "Sudanese"
