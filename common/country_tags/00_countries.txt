@@ -16,6 +16,7 @@ LVA = "countries/Livonia.txt"
 SMI = "countries/Sami.txt"
 KRL = "countries/Karelia.txt"
 ICE = "countries/Iceland.txt"
+ISE = "countries/Island.txt"
 SVE = "countries/Svealand.txt"
 NRL = "countries/NRL.txt"
 FJD = "countries/Fjordland.txt"
@@ -976,6 +977,6 @@ SYN = "countries/Synthetics.txt"
 #Converter tags:
 #JOM = countries/Jomsvikings.txt
 #HAH = countries/Hashshashin.txt
-#ISR = countries/Israel.txt
+ISR = countries/Israel.txt
 #TEM = countries/KnightsTemplar.txt
 #TRL = countries/Trapalanda.txt

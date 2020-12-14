@@ -1,5 +1,10 @@
 #367 - The Azores
 
+owner = SPA
+controller = SPA
+add_core = SPA
+#As of Dec 13, 2020, Spain owns the Azores. I don't know who actually owned it at that time,
+#but looking into it is on my post-map todo list.
 culture = berber
 religion = animism
 capital = "The Azores"
@@ -12,16 +17,21 @@ native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-
-
-
-1427.6.30 = { discovered_by = western discovered_by = POR}
-
-1427.11.29 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	culture = portugese
-	religion = catholic
-}
+discovered_by = western
+discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
+discovered_by = muslim
+discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = sub_saharan
