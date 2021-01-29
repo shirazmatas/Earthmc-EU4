@@ -2,6 +2,7 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or ideas, make sure they are unique.
 # Starting with the custom EMC nations and ideas
+# Aside from starting with GFI, country tags of new nations will be in order.
 
 GFI_ideas = { #Greater Finland
     start = {
@@ -43,6 +44,51 @@ GFI_ideas = { #Greater Finland
     }
 }
 
+BAC_ideas = { #Bactria
+	start = {
+		development_cost = -0.1
+		cavalry_power = 0.15
+	}
+	
+	trigger = {
+		tag = BAC
+	}
+	
+	free = yes
+	
+	bonus = {
+		caravan_power = 0.3
+	}
+	
+	bac_frontier = {
+		defensiveness = 0.15
+	}
+	
+	bac_workers = {
+		build_cost = -0.1
+	}
+	
+	bac_hunters = {
+		movement_speed = 0.15
+	}
+	
+	bac_one_man = {
+		legitimacy = 1
+	}
+	
+	bac_sales = {
+		global_tax_modifier = 0.1
+	}
+	
+	bac_ruins = {
+		loot_amount = 0.3
+	}
+	
+	bac_china = {
+		power_projection_from_insults = 1
+	}
+	
+}
 
 BYZ_ideas = { #Byzantium
 	start = {

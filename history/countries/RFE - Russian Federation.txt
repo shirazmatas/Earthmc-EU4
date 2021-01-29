@@ -1,0 +1,6 @@
+government = monarchy
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+unit_type = eastern
+government_rank = 1

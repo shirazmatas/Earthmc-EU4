@@ -1,0 +1,6 @@
+government = republic
+primary_culture = arawak
+religion = animism
+technology_group = western
+
+#This is just a sad file

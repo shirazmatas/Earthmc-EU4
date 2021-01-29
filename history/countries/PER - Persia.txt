@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+primary_culture = persian
+religion = shiite
+technology_group = muslim
+capital = 2218 # Pasargadae
+
+1444.1.1 = {
+	monarch = {
+		name = "AD31"
+		dynasty = "Greedius"
+		birth_date = 1424.11.11		
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}

@@ -1,7 +1,8 @@
 #434 - Quhistan
 
-owner = BAL
-controller = BAL
+owner = BAC
+controller = BAC
+add_core = BAC
 culture = baluchi
 religion = sunni
 capital = "Bampur"
@@ -11,32 +12,23 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_local_autonomy = 50
 add_core = BAL
+discovered_by = western
+discovered_by = eastern
+discovered_by = high_american
+discovered_by = anatolian
 discovered_by = muslim
-discovered_by = ottoman
 discovered_by = indian
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = nomadic
+discovered_by = mesoamerican
+discovered_by = andean
+discovered_by = north_american
+discovered_by = south_american
+discovered_by = ottoman
 discovered_by = nomad_group
-
-
-1469.2.4 = { controller = AKK owner = AKK add_core = AKK } #Battle of Qarabagh
-1496.2.8 = { controller = REB revolt = { type = pretender_rebels size = 0 name = "Muhammad's Faction" leader = "Muhammad Ak Koyunlu" } } # Civil war in Ak Koyunlu
-1501.7.1 = { controller = AKK revolt = { } }
-1504.1.1 = {
-	owner = BAL
-	controller = BAL
-	remove_core = AKK
-} # Land reclaimed
-1649.1.1 = { controller = PER }
-1650.1.1 = { owner = PER }
-1666.1.1 = {
-	owner = BAL
-	controller = BAL
-}
-
-
-
-1673.1.1 = { discovered_by = ENG }
-1677.1.1 = { discovered_by = FRA }
-1707.5.12 = { discovered_by = GBR }
+discovered_by = sub_saharan
 
