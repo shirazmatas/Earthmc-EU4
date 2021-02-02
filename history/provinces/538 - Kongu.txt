@@ -2,6 +2,7 @@
 
 owner = IND
 controller = IND
+add_core = IND
 capital = "Karur"
 culture = tamil
 religion = hinduism

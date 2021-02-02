@@ -512,6 +512,7 @@ CHG	= "countries/ChagataiKhanate.txt"
 CHK	= "countries/Champassak.txt"
 DAI	= "countries/DaiViet.txt"
 JAP	= "countries/Japan.txt"
+SIA = "countries/Siam.txt"
 
 #Daimyos
 AMA = "countries/Amago.txt"
@@ -711,6 +712,9 @@ BHA = "countries/Bharat.txt"
 YOR	= "countries/Andhra.txt"
 DGL = "countries/Maldives.txt"
 IND = "countries/India.txt"
+TJI = "countries/Tenji.txt"
+MMR = "countries/Myanmar.txt"
+SRI = "countries/SriLanka.txt"
 
 MBL = "countries/Bishnupur.txt"
 SKK = "countries/Sikkim.txt"

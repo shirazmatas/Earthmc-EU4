@@ -1,0 +1,4 @@
+government = monarchy
+technology_group = indian
+religion = buddhism
+primary_culture = sinhala
