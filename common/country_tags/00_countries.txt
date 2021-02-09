@@ -512,6 +512,7 @@ CHG	= "countries/ChagataiKhanate.txt"
 CHK	= "countries/Champassak.txt"
 DAI	= "countries/DaiViet.txt"
 JAP	= "countries/Japan.txt"
+KLA = "countries/Kalimantan.txt"
 SIA = "countries/Siam.txt"
 
 #Daimyos
@@ -758,6 +759,7 @@ SMO = "countries/Smolensk.txt"
 NZH = "countries/NizhnyNovgorod.txt"
 KOJ = "countries/Jerusalem.txt"
 MSA = "countries/Malaya.txt"
+MLA = "countries/Malaysia.txt"
 HIN = "countries/Hindustan.txt"
 
 ABE = "countries/Abenaki.txt"
@@ -878,6 +880,7 @@ TDO = "countries/Tondo.txt"
 MNA = "countries/Maynila.txt"
 CEB = "countries/Cebu.txt"
 BTU = "countries/Butuan.txt"
+PNG = "countries/NewGuinea.txt"
 
 #South American Additions
 CSU = "countries/Cusco.txt"

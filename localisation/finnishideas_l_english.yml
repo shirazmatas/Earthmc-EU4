@@ -52,3 +52,7 @@
  bac_ruins_desc: "Bactria has long been isolated and therefore, in a prime position to raid any towns that have fallen nearby, before outside forces can react. Fast looting was always the key to Bactrian success, for if one lingers too long he may die in the ruins."
  bac_china: "Insulting the Chinese"
  bac_china_desc: "Ever since the creation of AnXi, the Bactrian state has been insulting the invaders, always hoping to provoke them to attack outside of claims - and die."
+ 
+ DAI_ideas: "Vietnamese Ideas"
+ DAI_ideas_start: "Vietnamese Traditions"
+ DAI_ideas_bonus: "Vietnamese Ambition"

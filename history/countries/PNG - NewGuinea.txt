@@ -1,0 +1,4 @@
+government = monarchy
+primary_culture = moluccan
+religion = animism
+technology_group = chinese
